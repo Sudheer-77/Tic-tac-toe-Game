@@ -66,5 +66,3 @@ document.addEventListener('DOMContentLoaded', () => {
     statusText.textContent = "Player 1's turn (X)";
   });
 });
-
-
